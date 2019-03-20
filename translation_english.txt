@@ -23,11 +23,24 @@ maternal.columns
  'Edad cumplida' = 'Age fulfilled'
  
  
- ********** Patient Background / Residence / Education / Work **********
+ ********** Patient Background  **********
  
  'Estado conyugal' = 'Marital status'
  
  'Descripción del estado conyugal' = 'Description of the conjugal state'
+     'CASADO'- 'Married'
+     'DIVORCIADO'- 'Divorced'
+     'NO APLICA A MENORES DE 12 AÑOS' - 'Does not Appy to under 12 years old'
+     'NO ESPECIFICADO'- 'Not Specified'
+     'SE IGNORA'-
+     'SEPARADO'-
+     'SOLTERO' - 
+     'UNION LIBRE' - 
+     'VIUDO'
+ 
+ 
+ 
+  ********** Patient Residence **********
  
  'Entidad de residencia' = 'Entity of residence'
  
@@ -44,21 +57,31 @@ maternal.columns
  'Tamaño de localidad' = 'Location size'
  
  'Descripción del tamaño de localidad' = 'Description of the size of locality'
+ 
+ 
+ 
+  ********** Patient Work **********
 
  'Ocupación habitual' = 'Habitual occupation'
  
  'Descripción de la ocupación habitual' = 'Description of the usual occupation'
+ 
+ 
+ 
+  ********** Patient Education **********
  
  'Escolaridad' = 'Scholarship'
  
  'Descripción de la escolaridad' = 'Description of schooling'
  
  
-  ********** Patient Background / Health **********
+ 
+  ********** Patient Health **********
  
  'Derechohabiencia'= 'Rightfulness' (in terms of health)
  
  'Descripción de la derechohabiencia' = 'Description of the right of health'
+ 
  
  
   ********** Information on Hospital Admittance / Location of Death **********
@@ -74,6 +97,7 @@ maternal.columns
  'Localidad de ocurrencia' = 'Occurence location'
  
  'Descrición de la localidad de ocurrencia' = 'Description of the occurence location'
+ 
  
  
   ********** Patient Death Information ********** 
@@ -144,3 +168,6 @@ maternal.columns
  'Razón de mortalidad materna' = 'Reason for maternal mortality'
  
  'Descripción de la razón de mortalidad materna' = 'Description of the maternal mortality ratio'
+     
+     'Muertes Maternas excluidas para la razón de Mortalidad Materna' - 'Maternal deaths excluded for the reason of Maternal Mortality'
+     'Muertes Maternas para la razón de Mortalidad Materna' - 'Maternal deaths for the reason of Maternal Mortality'
