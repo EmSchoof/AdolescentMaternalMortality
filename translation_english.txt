@@ -46,6 +46,44 @@ maternal.columns
  
  'Descripción de entidad de residencia' = 'Description of residence entity'
  
+Aguascalientes
+Baja California
+Baja California Sur
+Campeche
+Chiapas
+Chihuahua
+Coahuila de Zaragoza
+Colima
+Distrito Federal
+Durango
+Estados Unidos de Norteamérica - 'United States of America'
+Guanajuato
+Guerrero
+Hidalgo
+Jalisco
+Michoacán de Ocampo
+Morelos
+México
+Nayarit
+No especificado - 'Not Specified"
+Nuevo León
+Oaxaca
+Otros paises - 'Other countries'
+Otros paises latinoamericanos - 'Other Latin American countries'
+Puebla
+Querétaro Arteaga
+Quintana Roo
+San Luis Potosí
+Sinaloa
+Sonora
+Tabasco
+Tamaulipas
+Tlaxcala
+Veracruz de Ignacio de la Llave
+Yucatán
+Zacatecas
+
+ 
  'Municipio de residencia' = 'Municipality (local government) of residence'
  
  'Descripción del municipio de residencia' = 'Description of the municipality of residence'
