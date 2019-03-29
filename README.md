@@ -9,3 +9,5 @@ In 1990, the United Nations created 8 Millennium Development Goals (MDGs), which
 The Health Ministry of the Executive Branch is responsible for disease prevention and health promotion within Mexico. The Mexican Government’s Office of the President and the Health Ministry of Mexico need Data Scientists to help identify unaddressed causes of maternal mortality and possible solutions to further reduce the incidence of maternal deaths. This information can then be provided to local government officials, clinicians and public health professionals, who are all on the forefront of maternal patient care and will have the most impact on helping Mexico meet their country’s share of the Millennium Development Goals.
 
 I utilized the SALUD data repository, which was curated from trh group, Data Science for Social Good, who sourced their data from the Ministry of Health. This dataset contains public information on cases of death in Mexico related to maternal mortality for the years 2002 through 2017. 
+
+Note: This project is still in progress, so some files may be incomplete or contain notes for further analysis.
