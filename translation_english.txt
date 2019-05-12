@@ -82,44 +82,81 @@ Tlaxcala
 Veracruz de Ignacio de la Llave
 Yucatán
 Zacatecas
-
  
+ 
+  ********** Local Community Information  **********
+  
  'Municipio de residencia' = 'Municipality (local government) of residence'
  
  'Descripción del municipio de residencia' = 'Description of the municipality of residence'
  
  'Localidad de residencia' = 'Residence location'
  
- 'Descripción de la localidad de residencia' = 'Description of the place of residence'
+ 'Descripción de la localidad de residencia' = 'Description of the place of residence' / City 
  
  'Tamaño de localidad' = 'Location size'
  
  'Descripción del tamaño de localidad' = 'Description of the size of locality'
- 
- 
- 
-  ********** Patient Work **********
-
+  
  'Ocupación habitual' = 'Habitual occupation'
  
  'Descripción de la ocupación habitual' = 'Description of the usual occupation'
  
+ 'habitantes' - 'Habitants/ People'
+ 
+ '1 a 999            habitantes',
+ '1000 a 1999    habitantes',
+ '10000 a 14999  habitantes',
+ '100000 a 249999 habitantes',
+ '1000000 a 1499999  habitantes',
+ '15000 a 19999   habitantes',
+ '1500000 y más habitantes',
+ '2000 a 2499    habitantes',
+ '20000 a 29999   habitantes',
+ '2500 a 4999    habitantes',
+ '250000 a 499999 habitantes',
+ '30000 a 39999   habitantes',
+ '40000 a 49999   habitantes',
+ '5000 a 9999    habitantes',
+ '50000 a 74999   habitantes',
+ '500000 a 999999  habitantes',
+ '75000 a 99999   habitantes',
+ 
+ 'No Especificado' - Not specified
  
  
   ********** Patient Education **********
  
  'Escolaridad' = 'Scholarship'
  
- 'Descripción de la escolaridad' = 'Description of schooling'
+ 'Descripción de la escolaridad' = 'Description of schooling' / Level of Schooling Completed
  
+ 'PROFESIONAL' - Doctorate/ PhD/ Masters/ Beyond Ungergraduate (unspecified)
  
+ 'POSGRADO' - Post-Graduate Education
+ 
+ 'BACHILLERATO O PREPARATORIA COMPLETA' - High School (grades 10-12) complete
+ 'BACHILLERATO O PREPARATORIA INCOMPLETA' - High School (grades 10-12) incomplete
+ 
+ 'PRIMARIA COMPLETA' - Elementary School (grades 1-6) complete 
+ 'PRIMARIA INCOMPLETA' - Elementary School (grades 1-6) incomplete
+ 
+ 'SECUNDARIA COMPLETA' - Junior High (grades 7-9) complete
+ 'SECUNDARIA INCOMPLETA' - Junior High (grades 7-9) incomplete
+ 
+  'PREESCOLAR' - Preschool complete
+ 
+ 'NO ESPECIFICADO' - Not specified
+ 
+ 'NINGUNA' - NONE
+ 
+ 'SE IGNORA' - It was 'ignored' / not specified
  
   ********** Patient Health **********
  
  'Derechohabiencia'= 'Rightfulness' (in terms of health)
  
  'Descripción de la derechohabiencia' = 'Description of the right of health'
- 
  
  
   ********** Information on Hospital Admittance / Location of Death **********
