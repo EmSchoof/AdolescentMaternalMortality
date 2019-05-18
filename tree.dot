@@ -1,0 +1,9 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Above(0)/Not(1) Mexico μ Age Maternal Mortality <= 0.5\ngini = 0.42\nsamples = 9\nvalue = [5, 12]\nclass = b", fillcolor="#399de595"] ;
+1 [label="gini = 0.0\nsamples = 2\nvalue = [5, 0]\nclass = A", fillcolor="#e58139ff"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.0\nsamples = 7\nvalue = [0, 12]\nclass = b", fillcolor="#399de5ff"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
