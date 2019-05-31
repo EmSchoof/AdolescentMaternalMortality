@@ -22,20 +22,20 @@ The specific Python files written by this code assume you have the following too
             <li>seaborn</li>
         </ul>
 
-    <li>Data Visualization</li>
+<li>Data Visualization</li>
         <ul>
             <li>pyplot</li>
             <li>pylab</li>
             <li>empirical_distribution</li>
         </ul>
 
-    <li>Statistics</li>
+ <li>Statistics</li>
         <ul>
             <li>statistics</li>
             <li>scipy</li>
         </ul>
 
-    <li>Machine Learning modules</li>
+<li>Machine Learning modules</li>
         <ul>
             <li>train_test_split</li>
             <li>DecisionTreeClassifier</li>
@@ -43,16 +43,16 @@ The specific Python files written by this code assume you have the following too
             <li>LogisticRegression</li>
         </ul>
 
-    <li>Hyperparameters</li>
+ <li>Hyperparameters</li>
         <ul>
             <li>GridSearchCV</li>
             <li>roc_auc_score</li>
             <li>cross_val_score</li>
         </ul>
 
-    <li>ROC Curve</li>  
+<li>ROC Curve</li>  
 
-    <li>Scale Data</li>
+<li>Scale Data</li>
         <ul>
             <li>StandardScaler</li>
         </ul>
