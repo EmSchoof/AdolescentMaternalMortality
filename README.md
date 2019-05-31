@@ -7,6 +7,7 @@
 <p>The scripts provided here calculate the risk probability of an adolescent maternal mortality by State in Mexico based on some of the top features contributing to maternal mortality. While this is a multi-dimensional issue, for the sake of this study, the following 8 factors were used to predict the likelihood of adolescent maternal mortality by region: region population, region GDP, local poverty level, level of education, and access to medical assistance in order to help direct government funds to areas where it would be most beneficial. </p>
 <h3>Use</h3>
 <ul>
+    <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/translation_english.txt">translation_english.txt</a> translates Spanish columns and data information into its English counterpart.</li>  
      <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/maternal_mortality.ipynb">maternal_mortality.ipynb</a> cleans the source data and assesses mean maternal mortality age and mean adolescent maternal mortality age by State in Mexico.</li>  
      <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/merging_dataframes.ipynb">merging_dataframes.ipynb</a> merges averaged information on State instances of maternal mortality with State enconomic factors (GDP and Population Size).</li>  
      <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/machine_learning.ipynb">machine_learning.ipynb</a> produces the linear regression model assessing likelihood of adolescent maternal mortality within a State of Mexico.</li>  
