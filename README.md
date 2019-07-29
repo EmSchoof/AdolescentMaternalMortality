@@ -41,11 +41,17 @@
 
 <h3>Use</h3>
 <ul>
-    <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/translation_english.txt">translation_english.txt</a> translates Spanish columns and data information into its English counterpart.</li>  
-     <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/maternal_mortality.ipynb">maternal_mortality.ipynb</a> cleans the source data and assesses mean maternal mortality age and mean adolescent maternal mortality age by State in Mexico.</li>  
-     <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/merging_dataframes.ipynb">merging_dataframes.ipynb</a> merges averaged information on State instances of maternal mortality with State enconomic factors (GDP and Population Size).</li>  
-     <li><a href="https://github.com/EmSchoof/Capstone-Project-1/blob/master/machine_learning.ipynb">machine_learning.ipynb</a> produces the linear regression model assessing likelihood of adolescent maternal mortality within a State of Mexico.</li>  
+    <li><a href="https://github.com/EmSchoof/AdolescentMaternalMortality/blob/master/data/translation_english.txt">translation_english.txt</a> translates Spanish columns and data information into its English counterpart.</li>  
+     <li><a href="https://github.com/EmSchoof/AdolescentMaternalMortality/blob/master/python_files/1_data_wrangling.ipynb">1_data_wrangling.ipynb</a> cleans the source data and assesses mean maternal mortality age and mean adolescent maternal mortality age by State in Mexico.</li>  
+     <li><a href="https://github.com/EmSchoof/AdolescentMaternalMortality/blob/master/python_files/2_explanatory_data_analysis.ipynb"> 2_explanatory_data_analysis.ipynb</a>Assesses distribution of general target variable.</li>  
+     <li><a href="https://github.com/EmSchoof/AdolescentMaternalMortality/blob/master/python_files/3_adomaternal_mortality.ipynb"> 3_adomaternal_mortality.ipynb</a>Assesses distribution of just adolescent maternal mortality.</li>  
+   <li><a href="https://github.com/EmSchoof/AdolescentMaternalMortality/blob/master/python_files/4_inferential_statistics.ipynb">4_inferential_statistics.ipynb</a>Statistically proves mean age of maternal mortality in the dataset is comparable to the actual mean age of maternal mortality in Mexico. Also proves via ANOVA that at least one state in Mexico has a mean age of maternal mortality statistically different from the others.</li>  
 </ul>
+   <li><a href="https://github.com/EmSchoof/AdolescentMaternalMortality/blob/master/python_files/5_merging_dataframes.ipynb">5_merging_dataframes.ipynb</a> Merges averaged information on State instances of maternal mortality with State enconomic factors (GDP and Population Size).</li>  
+</ul>
+   <li><a href="https://github.com/EmSchoof/AdolescentMaternalMortality/blob/master/python_files/6_machine_learning.ipynb">6_machine_learning.ipynb</a>Production of the pipeline machine learning model using logistic regression and standard scaling to assess the likelihood of adolescent maternal mortality within a State of Mexico.</li>  
+</ul>
+
 <h3>Dependencies</h3>
 The specific Python files written by this code assume you have the following tools added to your module directories:
 <br>
