@@ -1,3 +1,7 @@
 # ignore jupyter notebook
 .ipynb_checkpoints
 *.ipynb
+
+# ignore data
+data/*
+.idea/
