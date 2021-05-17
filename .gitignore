@@ -1,6 +1,5 @@
 # ignore jupyter notebook
 .ipynb_checkpoints
-*.ipynb
 
 # ignore PyCharm folder
 .idea/
